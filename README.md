@@ -1,5 +1,7 @@
 # KOC_PS2_ADAPTER
 
+> ⚠ WARNING - This project is still in WIP. The keys part works but the Turntable for now its not implemented in the code.
+
 ## Overview
 
 This project is an adapter for the Beatmania IIDX Konami Official Controller PS2 for PC using an Arduino R4 Minima.
